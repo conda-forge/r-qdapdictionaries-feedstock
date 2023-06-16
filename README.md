@@ -1,11 +1,11 @@
-About r-qdapdictionaries
-========================
+About r-qdapdictionaries-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qdapdictionaries-feedstock/blob/main/LICENSE.txt)
 
 Home: http://trinker.github.com/qdapDictionaries/
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qdapdictionaries-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of text analysis dictionaries and word lists for use with the 'qdap' package.
 
